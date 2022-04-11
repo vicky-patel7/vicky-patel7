@@ -60,7 +60,7 @@
 <p align='center'><em><b>First, solve the problem. Then, write the code.</b></em></p>
 <!-- <img align="right" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-1e0bf8fb-0ee9-41fe-ba7c-936697e0d12d-v1.png?transparent=1&palette=1" alt="Saptak's Bitemoji" border="0"/> -->
   
-## Hey there, I am [Vicky Kumar Patel](https://vicky-patel7.github.io/portfolio.github.io/), Software Developer
+## Hey there, I am [Vicky Kumar Patel](https://vicky-patel7.github.io/portfolio.github.io/),
 
 - 📖 Currently in 2nd year student, pursuing B.Tech in Computer Science from Guru Ghasidas Vishwavidyalaya (A Central University), Koni, Bilaspur, Chhattisgarh
 - 🌱 I’m currently learning backend technologies and database
@@ -176,13 +176,13 @@
   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-patel7&layout=compact&theme=radical" />
   <!-- <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/languages.svg?theme=radical" /> -->
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=vicky-patel7)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
    <a href="https://github.com/vicky-patel7"><img alt="Vicky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vicky-patel7&custom_title=Vicky_Kumar_Patel's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vicky-patel7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--
