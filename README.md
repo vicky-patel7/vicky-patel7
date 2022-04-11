@@ -49,7 +49,7 @@
   <img alt="Vicky's Codechef" width="35px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
 </a>  
    
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=saptak.bugatti20@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:vickykumarpatel11@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=vickykumarpatel11@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:vickykumarpatel11@gmail.com)
 ![](https://komarev.com/ghpvc/?username=vicky-patel7&style=plastic&label=Profile+Visitors&color=brightgreen)
 
 </h1>
