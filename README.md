@@ -176,6 +176,8 @@
   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-patel7&layout=compact&theme=radical" />
   <!-- <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/languages.svg?theme=radical" /> -->
 </p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vicky-patel7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
