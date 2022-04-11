@@ -177,6 +177,8 @@
   <!-- <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/languages.svg?theme=radical" /> -->
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vicky-patel7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <br/>
    <a href="https://github.com/vicky-patel7"><img alt="Vicky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vicky-patel7&custom_title=Vicky_Kumar_Patel's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
