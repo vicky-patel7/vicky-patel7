@@ -1,4 +1,5 @@
-<h1 align="center">Vicky Kumar Patel<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> </h1>
+<div align="center">
+   <h1>Hey Everyone, I'm <a href="https://vicky-patel7.codes">Vicky Patel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height ="40px"width="60px"> </h1>
 
 <!-- <h1 align="center">
    <a href="https://saptakportfolio.netlify.app/">
