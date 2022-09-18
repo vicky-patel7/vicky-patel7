@@ -25,7 +25,7 @@
   <img alt="Vicky's YouTube" width="42px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />
 </a> -->
      
-<a href="https://twitter.com/vicky_patel7">
+<a href="https://twitter.com/vickypatel_7">
   <img alt="Vicky's Twitter" width="42px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
      
