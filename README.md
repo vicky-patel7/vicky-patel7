@@ -62,7 +62,7 @@
   
 ## Hey there, I am [Vicky Kumar Patel](https://vicky-patel7.github.io/portfolio.github.io/),
 
-- 📖 Currently in 2nd year student, pursuing B.Tech in Computer Science from Guru Ghasidas Vishwavidyalaya (A Central University), Koni, Bilaspur, Chhattisgarh
+- 📖 Currently in 3rd year student, pursuing B.Tech in Computer Science from Guru Ghasidas Vishwavidyalaya (A Central University), Koni, Bilaspur, Chhattisgarh
 - 🌱 I’m currently learning backend technologies and database
 - 🌱 Learning new technologies
 - 🔭 I’m currently working on implementing student idendtification system 
@@ -81,17 +81,17 @@
 <h1 align="center">Languages and tools I use</h1>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED1D25)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED1D25)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <!-- ![Node.js](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=node.js) -->
-  <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
   <!-- ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) -->
   <!-- ![SocketIO](https://img.shields.io/badge/-Socket%20IO-333333?style=flat&logo=Socket.IO) -->
   <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=E535AB) -->
@@ -100,9 +100,10 @@
   <!-- ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask) -->
   
 - 📲 &nbsp;
-   <!-- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma) -->
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+<!--    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma) -->
    <!-- ![MaterialUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=MUI) -->
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  
   
 <!-- - 🛢 &nbsp; -->
   <!-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
@@ -171,19 +172,19 @@
 </p>
 
 <p align="left">
-  <!-- <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/overview.svg?theme=radical" /> -->
+<!--   <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/overview.svg?theme=radical" /> -->
   
   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-patel7&layout=compact&theme=radical" />
-  <!-- <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/languages.svg?theme=radical" /> -->
+<!--   <img width="49%" src="https://github.com/vicky-patel7/github-stats/blob/master/generated/languages.svg?theme=radical" /> -->
 </p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vicky-patel7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<!-- 
 <br/>
    <a href="https://github.com/vicky-patel7"><img alt="Vicky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vicky-patel7&custom_title=Vicky_Kumar_Patel's%20Contribution%20Graph&theme=react-dark" /></a>
-<br/>
+<br/> -->
 
 
 
